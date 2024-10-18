@@ -17,8 +17,10 @@ Before you start, ensure you have the following:
 You can find datasets on many different websites or you can create your own.
 
 Datasets:
-- [roboflow universe](https://universe.roboflo# Training Your Own Model with YOLOv8
+- [roboflow universe](https://universe.roboflow.com)
 
+
+# Training Your Own Model with YOLOv8
 In this section, we'll guide you through the process of training your own object detection model using YOLOv8. By training your own model, you can detect custom objects tailored to your specific application.
 
 ## Prerequisites
@@ -36,7 +38,7 @@ Before you start, ensure you have the following:
 You can find datasets on many different websites or you can create your own.
 
 Datasets:
-- [roboflow universe](https://universe.roboflow.com/)
+- [roboflow universe](https://roboflow.com/annotate)
 - [kaggle](https://www.kaggle.com/)
 
 If you want to create your own you will need to obtain images you want to train on and annotate them.
