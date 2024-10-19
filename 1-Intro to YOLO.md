@@ -8,7 +8,7 @@ This page will introduce you to one of the tools used in the Black Knight projec
 
 **Ultralytics** is a company that specializes in artificial intelligence (AI) and computer vision, particularly in advancing the YOLO family of models. They have developed and maintain **YOLOv5** and **YOLOv8**, which are open-source models optimized for ease of use, high performance, and seamless integration with various platforms.
 
-[https://docs.ultralytics.com/](https://docs.ultralytics.com/models/yolov8/#supported-tasks-and-modes)
+[YOLOv8 Documentation](https://docs.ultralytics.com/models/yolov8/#supported-tasks-and-modes)
 
 ---
 
